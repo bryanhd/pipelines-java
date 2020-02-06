@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/tothecloudinfo/InfraAsCode/_apis/build/status/bryanhd.pipelines-java?branchName=master)](https://dev.azure.com/tothecloudinfo/InfraAsCode/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
