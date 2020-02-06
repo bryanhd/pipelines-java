@@ -1,7 +1,7 @@
 [![Build Status](https://dev.azure.com/tothecloudinfo/InfraAsCode/_apis/build/status/bryanhd.pipelines-java?branchName=master)](https://dev.azure.com/tothecloudinfo/InfraAsCode/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
-
+I hate Microsoft! Just kidding but do better at documentation.
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
 the rights to use your contribution. For details, visit https://cla.microsoft.com.
